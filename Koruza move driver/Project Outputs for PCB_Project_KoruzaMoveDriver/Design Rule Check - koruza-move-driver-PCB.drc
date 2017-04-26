@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\vojislav\Documents\koruza_move_driver\koruza-move-driver\Koruza move driver\koruza-move-driver-PCB.PcbDoc
 Date     : 04/26/2017
-Time     : 12:34:47 PM
+Time     : 2:55:36 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (InPolygon),(not InNet('GND'))
 Rule Violations :0
@@ -10,9 +10,7 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-3(-23.24mm,40.05mm) on Top Layer And Pad C9-1(-22.38mm,38.17mm) on Bottom Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Via (-31.082mm,45.84mm) from Top Layer to Bottom Layer And Pad C1-1(-30.5mm,43.2mm) on Bottom Layer 
-Rule Violations :2
+Rule Violations :0
 
 Processing Rule : Clearance Constraint (Gap=0.203mm) (All),(All)
 Rule Violations :0
@@ -51,5 +49,5 @@ Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Time Elapsed        : 00:00:02
