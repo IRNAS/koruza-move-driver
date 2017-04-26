@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [koruza-move-driver-PCB.PcbDoc]
+   Generated File[koruza-move-driver-PCB.TXT]
+   Generated File[koruza-move-driver-PCB.DRL]
+   Generated File[koruza-move-driver-PCB.LDP]
+   Generated File[koruza-move-driver-PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 3:30:19 PM On 04/26/2017
