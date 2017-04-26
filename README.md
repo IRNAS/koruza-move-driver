@@ -6,6 +6,7 @@ The Koruza driver is an additional board to [Koruza CM board][link1_koruza_compu
 
 The main and only MCU on the board is the one and only ATmega328P, which is Arduino compatible. The MCU tasks are: driving the stepper motors, reading the switches and encoders, and communicating with the main board. For driving motors, there is one high-current Darlington transistor array. On the board back, at the end of the motor shafts two magnetic encoders are positioned. Two encoders are TLV493D from Infineon.
 
+For more information about the design of the koruza move driver please see the [Schematics and PCB design files in PDF format][link3_pdf].
 The firmware for the koruza move driver board is in the [firmware repository][link2_fw_repo].
 
 ![alt tag](https://github.com/IRNAS/koruza-move-driver/blob/master/Pics/move_driver_pic.jpg)
@@ -29,3 +30,4 @@ You may use these names and terms only to attribute the appropriate entity as re
 
 [link1_koruza_compute_module_repo]: https://github.com/IRNAS/koruza-compute-module
 [link2_fw_repo]: https://github.com/IRNAS/Koruza-Move-Driver-Firmware
+[link3_pdf]: https://github.com/IRNAS/koruza-move-driver/blob/master/Koruza%20move%20driver/Project%20Outputs%20for%20PCB_Project_KoruzaMoveDriver/koruza-move-driver-PCB.pdf
