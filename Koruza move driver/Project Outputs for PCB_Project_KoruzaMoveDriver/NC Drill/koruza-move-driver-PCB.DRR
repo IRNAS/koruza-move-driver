@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: koruza-move-driver-PCB.PcbDoc   04/26/2017  3:30:19 PM
+NCDrill File Report For: koruza-move-driver-PCB.PcbDoc   04/27/2017  3:15:20 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,7 +9,7 @@ EIA File   : koruza-move-driver-PCB.DRL
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      12mil (0.3mm)                                             Round             44        PTH        8.87inch (225.21mm)
-T2      15mil (0.381mm)                                           Round             91        PTH        10.14inch (257.49mm)
+T2      15mil (0.381mm)                                           Round             91        PTH        10.91inch (277.07mm)
 T3      118mil (3mm)                                              Round             2         PTH        1.20inch (30.41mm)
 T4      374mil (9.5mm)                                            Round             1         PTH        0.00inch (0.00mm)
 T5      39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
